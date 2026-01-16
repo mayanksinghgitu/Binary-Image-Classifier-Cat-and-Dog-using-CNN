@@ -89,4 +89,4 @@ The architecture is designed to balance **accuracy and computational efficiency*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PawNet.git
+   git clone [https://github.com/your-username/PawNet.git](https://github.com/mayanksinghgitu/Binary-Image-Classifier-Cat-and-Dog-using-CNN.git)
